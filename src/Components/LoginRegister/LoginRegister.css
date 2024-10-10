@@ -1,0 +1,25 @@
+.login-wrapper{
+    position: relative;
+    width: 20rem;
+    height: 20rem;
+    background-color:white;
+    border-radius: 10px;
+    border: 1px solid black;
+    padding: 10px;
+    
+}
+
+.form-box{
+    width: 100%;
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    justify-content: space-between;
+
+}
+form h1{
+    font-size: 36px;
+    text-align: center;
+    
+}
